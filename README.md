@@ -6,7 +6,9 @@ Three.js ile yapılmış düşük poligonlu 3B balıkçılık ve macera oyunu (T
 - Dağlara tırmanış, gece/gündüz, doğa sesleri
 
 ## Oynamak
-`index.html` tek dosyalık, bağımsız bir sürümdür: tarayıcıda açmak yeterli.
+Tarayıcıda: https://serdar5884.github.io/sakli-ada/
+
+`index.html` tek dosyalık, bağımsız bir sürümdür; indirip doğrudan tarayıcıda da açabilirsin.
 
 ## Geliştirme
 ```
